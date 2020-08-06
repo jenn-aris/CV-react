@@ -25,7 +25,7 @@ export default () => (
         </div>
      </div>
     <div className="descriptEtude">
-     <p>Université PARIS1 Panthéon-Sorbonne</p>
+     <p>Université PARIS 1 Panthéon-Sorbonne</p>
     </div>
 
     <div className="intituleEtude">
