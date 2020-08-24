@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CV-react/static/css/main.0bf8d237.chunk.css",
+    "main.js": "/CV-react/static/js/main.62747419.chunk.js",
+    "main.js.map": "/CV-react/static/js/main.62747419.chunk.js.map",
+    "runtime-main.js": "/CV-react/static/js/runtime-main.f01f81f7.js",
+    "runtime-main.js.map": "/CV-react/static/js/runtime-main.f01f81f7.js.map",
+    "static/js/2.065c63e7.chunk.js": "/CV-react/static/js/2.065c63e7.chunk.js",
+    "static/js/2.065c63e7.chunk.js.map": "/CV-react/static/js/2.065c63e7.chunk.js.map",
+    "index.html": "/CV-react/index.html",
+    "precache-manifest.ab66b64f39b5ca39bec39a60ac9407af.js": "/CV-react/precache-manifest.ab66b64f39b5ca39bec39a60ac9407af.js",
+    "service-worker.js": "/CV-react/service-worker.js",
+    "static/css/main.0bf8d237.chunk.css.map": "/CV-react/static/css/main.0bf8d237.chunk.css.map",
+    "static/js/2.065c63e7.chunk.js.LICENSE.txt": "/CV-react/static/js/2.065c63e7.chunk.js.LICENSE.txt",
+    "static/media/freecodecamp.jpg": "/CV-react/static/media/freecodecamp.87a7aa14.jpg",
+    "static/media/mail.png": "/CV-react/static/media/mail.d3bab1d5.png",
+    "static/media/opquast-pic.svg": "/CV-react/static/media/opquast-pic.75ef7faf.svg",
+    "static/media/phone.png": "/CV-react/static/media/phone.77361fd3.png",
+    "static/media/portefolio.png": "/CV-react/static/media/portefolio.1f679ddf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01f81f7.js",
+    "static/js/2.065c63e7.chunk.js",
+    "static/css/main.0bf8d237.chunk.css",
+    "static/js/main.62747419.chunk.js"
+  ]
+}
